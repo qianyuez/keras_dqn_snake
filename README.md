@@ -2,6 +2,7 @@
 
 # Introduction
 Deep Q Network keras implemention to play Gluttonous Snake.
+
 <img src="https://github.com/qianyuez/keras_dqn_snake/blob/master/data/snake.gif" width="300px">
 
 # Requirements
